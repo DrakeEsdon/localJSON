@@ -1,0 +1,43 @@
+{
+"weirdDeals" : [
+  {
+    "name" : "Uranium ore", 
+    "price" : 39.95, 
+    "features" : "Radioactive Ore Specimen. The ore sample is Naturally Occurring Radioactive Materials (NORM). Uranium Ore samples are useful as check sources for testing Geiger Counters. No chemical or spectral analysis is performed on the radioactive ore sample. So the source of the ore's radioactivity is not determined and may be any of, or any number of radioactive elements such as uranium, thorium and potassium and any of their decay products such as radium and radon. Counts Per Minute (CPM) activity rate listed on the label is the activity level that includes all radiation types: alpha, beta and gamma.", 
+    "description" : "https://www.amazon.com/gp/product/B000796XXM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000796XXM&linkCode=as2&tag=eathnoth06-20&linkId=98b39aa68b8a9d3470a41091326bcf4d",
+    "image": "images/uranium-ore.jpg"
+  },
+  
+  {
+    "name" : "Godzilla Garden Gnome", 
+    "price" : 24.99,
+    "features" : "The Great Garden Gnome Massacre makes a great and hilarious gift for the garden lover in your life. The terrifying T-Rex is a defender of humanity with a taste for gnomes, a funny take on the conventional garden gnome. It's a fun addition to any landscaping, but looks great in your home, garden or office, too. 9-inches tall; 5-inches wide at base. Made of durable cast poly resin to withstand the elements.", 
+    "description" : "https://www.amazon.com/BigMouth-Garden-Massacre-Hilarious-Godzilla/dp/B00JF8381G/ref=sr_1_80?tag=skim1x173448-20&ie=UTF8&qid=1545322643&sr=8-80&keywords=weird+products",
+    "image": "images/gnome.jpg"
+  },
+  
+  {
+    "name" : "Cat carrier dress", 
+    "price" : 16.99,
+    "features" : "The women hooded dress is not a specialized pet carrier that It would be a better alternative than a plastic pet carrier that she/he stayes in it pretty comfy if she/he is a small one.", 
+    "description" : "https://www.amazon.com/gp/product/B079GVQ5W4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B079GVQ5W4&linkCode=as2&tag=eathnoth06-20&linkId=c4bac665087e803b68abf1a14f212bc0",
+    "image": "images/catDress.jpeg"
+  },
+  
+  {
+    "name" : "Turkey hat", 
+    "price" : 12.99,
+    "features" : "Turkey Hat, Nude 100% Polyester View Size Chart Size: One Size Brand: Smiffy's", 
+    "description" : "https://www.amazon.com/gp/product/B0045C9NO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0045C9NO8&linkCode=as2&tag=eathnoth06-20&linkId=90aeb2baea06c09345499d7f47cc5610&th=1&psc=1",
+    "image": "images/turkeyHat.jpeg"
+  },
+  
+  {
+    "name" : "Dancing with Cats", 
+    "price" : 13.22,
+    "features" : "The cult classic is back! This petite 15th anniversary hardcover reissue keeps all the original mystery and magic of cat dancing delightfully intact. Perpetually ahead of its time, Dancing with Cats presents scores of delightful and inspiring photographs of people and cats engaging in their favorite dance routines as well as moving testimonies of the personal transformations brought about through this uniquely joyous form of human-animal connection. Dancing with Cats will have a new generation of cat lovers (and their cats) jumping for joy—and cutting a rug—in no time.", 
+    "description" : "https://www.amazon.com/gp/product/1452128332/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1452128332&linkCode=as2&tag=eathnoth06-20&linkId=9cb59015602a2691c271cd2ec1a40717",
+    "image": "images/dancing.jpg"
+  }
+  ]
+}
