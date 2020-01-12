@@ -1,202 +1,202 @@
 [
     {
         "position": "1",
-        "albumName": "In the Court of the Crimson King",
-        "musician": "King Crimson"
+        "albumName": "Paranoid",
+        "musician": "Black Sabbath"
     },
     {
         "position": "2",
-        "albumName": "Abbey Road",
-        "musician": "The Beatles"
-    },
-    {
-        "position": "3",
-        "albumName": "In a Silent Way",
+        "albumName": "Bitches Brew",
         "musician": "Miles Davis"
     },
     {
+        "position": "3",
+        "albumName": "Black Sabbath",
+        "musician": "Black Sabbath"
+    },
+    {
         "position": "4",
-        "albumName": "Led Zeppelin",
-        "musician": "Led Zeppelin"
+        "albumName": "After the Gold Rush",
+        "musician": "Neil Young"
     },
     {
         "position": "5",
-        "albumName": "Led Zeppelin II",
-        "musician": "Led Zeppelin"
+        "albumName": "Fun House",
+        "musician": "The Stooges"
     },
     {
         "position": "6",
-        "albumName": "Hot Rats",
-        "musician": "Frank Zappa"
+        "albumName": "Led Zeppelin III",
+        "musician": "Led Zeppelin"
     },
     {
         "position": "7",
-        "albumName": "The Velvet Underground",
-        "musician": "The Velvet Underground"
+        "albumName": "Cosmo's Factory",
+        "musician": "Creedence Clearwater Revival"
     },
     {
         "position": "8",
-        "albumName": "Five Leaves Left",
+        "albumName": "Bryter Layter",
         "musician": "Nick Drake"
     },
     {
         "position": "9",
-        "albumName": "Let It Bleed",
-        "musician": "The Rolling Stones"
+        "albumName": "Curtis",
+        "musician": "Curtis Mayfield"
     },
     {
         "position": "10",
-        "albumName": "Everybody Knows This Is Nowhere",
-        "musician": "Neil YoungCrazy Horse"
+        "albumName": "All Things Must Pass",
+        "musician": "George Harrison"
     },
     {
         "position": "11",
-        "albumName": "Karma",
-        "musician": "Pharoah Sanders"
+        "albumName": "Bridge Over Troubled Water",
+        "musician": "Simon and Garfunkel"
     },
     {
         "position": "12",
-        "albumName": "Arthur or the Decline and Fall of the British Empire",
-        "musician": "The Kinks"
+        "albumName": "John Lennon / Plastic Ono Band",
+        "musician": "John LennonPlastic Ono Band"
     },
     {
         "position": "13",
-        "albumName": "Townes Van Zandt",
-        "musician": "Townes Van Zandt"
+        "albumName": "Moondance",
+        "musician": "Van Morrison"
     },
     {
         "position": "14",
-        "albumName": "Trout Mask Replica",
-        "musician": "Captain Beefheart & His Magic Band"
+        "albumName": "Deep Purple in Rock",
+        "musician": "Deep Purple"
     },
     {
         "position": "15",
-        "albumName": "The Stooges",
-        "musician": "The Stooges"
+        "albumName": "Third",
+        "musician": "Soft Machine"
     },
     {
         "position": "16",
-        "albumName": "Scott 4",
-        "musician": "Scott Engel"
+        "albumName": "Déjà vu",
+        "musician": "Crosby, Stills, Nash & Young"
     },
     {
         "position": "17",
-        "albumName": "Stand!",
-        "musician": "Sly and The Family Stone"
+        "albumName": "Desertshore",
+        "musician": "Nico"
     },
     {
         "position": "18",
-        "albumName": "Hot Buttered Soul",
-        "musician": "Isaac Hayes"
-    },
-    {
-        "position": "19",
-        "albumName": "Willy and the Poor Boys",
-        "musician": "Creedence Clearwater Revival"
-    },
-    {
-        "position": "20",
-        "albumName": "The Band",
-        "musician": "The Band"
-    },
-    {
-        "position": "21",
-        "albumName": "Green River",
-        "musician": "Creedence Clearwater Revival"
-    },
-    {
-        "position": "22",
-        "albumName": "Tommy",
-        "musician": "The Who"
-    },
-    {
-        "position": "23",
-        "albumName": "Our Mother the Mountain",
-        "musician": "Townes Van Zandt"
-    },
-    {
-        "position": "24",
-        "albumName": "Liege & Lief",
-        "musician": "Fairport Convention"
-    },
-    {
-        "position": "25",
-        "albumName": "Scott 3",
-        "musician": "Scott Walker"
-    },
-    {
-        "position": "26",
-        "albumName": "Happy Sad",
-        "musician": "Tim Buckley"
-    },
-    {
-        "position": "27",
-        "albumName": "Crosby, Stills & Nash",
-        "musician": "Crosby, Stills & Nash"
-    },
-    {
-        "position": "28",
-        "albumName": "Dusty in Memphis",
-        "musician": "Dusty Springfield"
-    },
-    {
-        "position": "29",
-        "albumName": "Unhalfbricking",
-        "musician": "Fairport Convention"
-    },
-    {
-        "position": "30",
-        "albumName": "Stand Up",
-        "musician": "Jethro Tull"
-    },
-    {
-        "position": "31",
-        "albumName": "Santana",
+        "albumName": "Abraxas",
         "musician": "Santana"
     },
     {
+        "position": "19",
+        "albumName": "Yeti",
+        "musician": "Amon Düül II"
+    },
+    {
+        "position": "20",
+        "albumName": "Exuma",
+        "musician": "Exuma"
+    },
+    {
+        "position": "21",
+        "albumName": "H to He Who Am the Only One",
+        "musician": "Van der Graaf Generator"
+    },
+    {
+        "position": "22",
+        "albumName": "Loaded",
+        "musician": "The Velvet Underground"
+    },
+    {
+        "position": "23",
+        "albumName": "Starsailor",
+        "musician": "Tim Buckley"
+    },
+    {
+        "position": "24",
+        "albumName": "Fôrça bruta",
+        "musician": "Jorge Ben"
+    },
+    {
+        "position": "25",
+        "albumName": "Layla and Other Assorted Love Songs",
+        "musician": "Derek and The Dominos"
+    },
+    {
+        "position": "26",
+        "albumName": "Tea for the Tillerman",
+        "musician": "Cat Stevens"
+    },
+    {
+        "position": "27",
+        "albumName": "Lola Versus Powerman and the Moneygoround (Part One)",
+        "musician": "The Kinks"
+    },
+    {
+        "position": "28",
+        "albumName": "Atom Heart Mother",
+        "musician": "Pink Floyd"
+    },
+    {
+        "position": "29",
+        "albumName": "Morrison Hotel",
+        "musician": "The Doors"
+    },
+    {
+        "position": "30",
+        "albumName": "It'll All Work Out in Boomland",
+        "musician": "T2"
+    },
+    {
+        "position": "31",
+        "albumName": "Ptah, the El Daoud",
+        "musician": "Alice Coltrane"
+    },
+    {
         "position": "32",
-        "albumName": "Moondog",
-        "musician": "Moondog"
+        "albumName": "Les stances à Sophie",
+        "musician": "Art Ensemble of Chicago"
     },
     {
         "position": "33",
-        "albumName": "Monster Movie",
-        "musician": "The Can"
+        "albumName": "A divina comédia ou ando meio desligado",
+        "musician": "Mutantes"
     },
     {
         "position": "34",
-        "albumName": "Gal Costa",
-        "musician": "Gal Costa"
+        "albumName": "Jesus Christ Superstar",
+        "musician": "Andrew Lloyd Webber and Tim Rice"
     },
     {
         "position": "35",
-        "albumName": "Uncle Meat",
-        "musician": "The Mothers of Invention"
+        "albumName": "Let It Be",
+        "musician": "The Beatles"
     },
     {
         "position": "36",
-        "albumName": "Songs From a Room",
-        "musician": "Leonard Cohen"
+        "albumName": "American Beauty",
+        "musician": "Grateful Dead"
     },
     {
         "position": "37",
-        "albumName": "The Allman Brothers Band",
-        "musician": "The Allman Brothers Band"
+        "albumName": "If I Could Do It All Over Again, I'd Do It All Over You",
+        "musician": "Caravan"
     },
     {
         "position": "38",
-        "albumName": "Eternal Rhythm",
-        "musician": "Don Cherry"
+        "albumName": "Cold Fact",
+        "musician": "Rodriguez"
     },
     {
         "position": "39",
-        "albumName": "Le sacre du printemps",
-        "musician": "Cleveland OrchestraPierre Boulez"
+        "albumName": "The Four Seasons",
+        "musician": "Academy of St Martin in the FieldsNeville MarrinerAlan Loveday"
     },
     {
         "position": "40",
-        "albumName": "Bayou Country",
-        "musician": "Creedence Clearwater Revival"
+        "albumName": "The Madcap Laughs",
+        "musician": "Syd Barrett"
     }
 ]
