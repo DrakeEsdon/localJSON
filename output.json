@@ -1,202 +1,202 @@
 [
     {
         "position": "1",
-        "albumName": "My Favorite Things",
-        "musician": "John Coltrane"
+        "albumName": "In the Court of the Crimson King",
+        "musician": "King Crimson"
     },
     {
         "position": "2",
-        "albumName": "Olé Coltrane",
-        "musician": "John Coltrane"
+        "albumName": "Abbey Road",
+        "musician": "The Beatles"
     },
     {
         "position": "3",
-        "albumName": "Africa / Brass",
-        "musician": "The John Coltrane Quartet"
+        "albumName": "In a Silent Way",
+        "musician": "Miles Davis"
     },
     {
         "position": "4",
-        "albumName": "Stravinsky Conducts Le Sacre du printemps",
-        "musician": "Columbia Symphony OrchestraIgor Stravinsky"
+        "albumName": "Led Zeppelin",
+        "musician": "Led Zeppelin"
     },
     {
         "position": "5",
-        "albumName": "Free Jazz",
-        "musician": "The Ornette Coleman Double Quartet"
+        "albumName": "Led Zeppelin II",
+        "musician": "Led Zeppelin"
     },
     {
         "position": "6",
-        "albumName": "The Blues and the Abstract Truth",
-        "musician": "Oliver Nelson"
+        "albumName": "Hot Rats",
+        "musician": "Frank Zappa"
     },
     {
         "position": "7",
-        "albumName": "We Insist! Max Roach's Freedom Now Suite",
-        "musician": "Max Roach"
+        "albumName": "The Velvet Underground",
+        "musician": "The Velvet Underground"
     },
     {
         "position": "8",
-        "albumName": "Sechs Suiten für Violoncello Solo BWV 1007-1012",
-        "musician": "Pierre Fournier"
+        "albumName": "Five Leaves Left",
+        "musician": "Nick Drake"
     },
     {
         "position": "9",
-        "albumName": "Klaviersonaten Pathétique; Mondschein-Sonate; Appassionata",
-        "musician": "Wilhelm Kempff"
+        "albumName": "Let It Bleed",
+        "musician": "The Rolling Stones"
     },
     {
         "position": "10",
-        "albumName": "Out There",
-        "musician": "Eric Dolphy"
+        "albumName": "Everybody Knows This Is Nowhere",
+        "musician": "Neil YoungCrazy Horse"
     },
     {
         "position": "11",
-        "albumName": "Chopin / Brahms / Liszt / Ravel / Prokofieff",
-        "musician": "Martha Argerich"
+        "albumName": "Karma",
+        "musician": "Pharoah Sanders"
     },
     {
         "position": "12",
-        "albumName": "A Night in Tunisia",
-        "musician": "Art Blakey & The Jazz Messengers"
+        "albumName": "Arthur or the Decline and Fall of the British Empire",
+        "musician": "The Kinks"
     },
     {
         "position": "13",
-        "albumName": "Don Giovanni",
-        "musician": "Philharmonia OrchestraPhilharmonia ChorusCarlo Maria Giulini Eberhard WächterJoan SutherlandLuigi AlvaGottlob FrickElisabeth SchwarzkopfGiuseppe TaddeiPiero CappuccilliGraziella Sciutti"
+        "albumName": "Townes Van Zandt",
+        "musician": "Townes Van Zandt"
     },
     {
         "position": "14",
-        "albumName": "Explorations",
-        "musician": "Bill Evans Trio"
+        "albumName": "Trout Mask Replica",
+        "musician": "Captain Beefheart & His Magic Band"
     },
     {
         "position": "15",
-        "albumName": "Out of the Cool",
-        "musician": "The Gil Evans Orchestra"
+        "albumName": "The Stooges",
+        "musician": "The Stooges"
     },
     {
         "position": "16",
-        "albumName": "This Is Our Music",
-        "musician": "The Ornette Coleman Quartet"
+        "albumName": "Scott 4",
+        "musician": "Scott Engel"
     },
     {
         "position": "17",
-        "albumName": "Thelonious Monk With John Coltrane",
-        "musician": "Thelonious MonkJohn Coltrane"
+        "albumName": "Stand!",
+        "musician": "Sly and The Family Stone"
     },
     {
         "position": "18",
-        "albumName": "The Quest",
-        "musician": "Mal Waldron with Eric Dolphy and Booker Ervin"
+        "albumName": "Hot Buttered Soul",
+        "musician": "Isaac Hayes"
     },
     {
         "position": "19",
-        "albumName": "Roll Call",
-        "musician": "Hank Mobley"
+        "albumName": "Willy and the Poor Boys",
+        "musician": "Creedence Clearwater Revival"
     },
     {
         "position": "20",
-        "albumName": "Ezz-thetics",
-        "musician": "George Russell Sextet"
+        "albumName": "The Band",
+        "musician": "The Band"
     },
     {
         "position": "21",
-        "albumName": "West Side Story",
-        "musician": "Various Artists"
+        "albumName": "Green River",
+        "musician": "Creedence Clearwater Revival"
     },
     {
         "position": "22",
-        "albumName": "Steamin' With the Miles Davis Quintet",
-        "musician": "Miles Davis Quintet"
+        "albumName": "Tommy",
+        "musician": "The Who"
     },
     {
         "position": "23",
-        "albumName": "The World of Cecil Taylor",
-        "musician": "Cecil Taylor"
+        "albumName": "Our Mother the Mountain",
+        "musician": "Townes Van Zandt"
     },
     {
         "position": "24",
-        "albumName": "Presents Charles Mingus",
-        "musician": "Charles Mingus"
+        "albumName": "Liege & Lief",
+        "musician": "Fairport Convention"
     },
     {
         "position": "25",
-        "albumName": "Out Front",
-        "musician": "Booker Little"
+        "albumName": "Scott 3",
+        "musician": "Scott Walker"
     },
     {
         "position": "26",
-        "albumName": "Percussion Bitter Sweet",
-        "musician": "Max Roach"
+        "albumName": "Happy Sad",
+        "musician": "Tim Buckley"
     },
     {
         "position": "27",
-        "albumName": "Leeway",
-        "musician": "Lee Morgan"
+        "albumName": "Crosby, Stills & Nash",
+        "musician": "Crosby, Stills & Nash"
     },
     {
         "position": "28",
-        "albumName": "Undercurrent",
-        "musician": "Kenny Drew"
+        "albumName": "Dusty in Memphis",
+        "musician": "Dusty Springfield"
     },
     {
         "position": "29",
-        "albumName": "Ella Fitzgerald Sings the Harold Arlen Song Book",
-        "musician": "Ella Fitzgerald"
+        "albumName": "Unhalfbricking",
+        "musician": "Fairport Convention"
     },
     {
         "position": "30",
-        "albumName": "N° 5",
-        "musician": "Jacques Brel"
+        "albumName": "Stand Up",
+        "musician": "Jethro Tull"
     },
     {
         "position": "31",
-        "albumName": "Whistle Stop",
-        "musician": "Kenny Dorham"
+        "albumName": "Santana",
+        "musician": "Santana"
     },
     {
         "position": "32",
-        "albumName": "Showcase",
-        "musician": "Patsy Cline"
+        "albumName": "Moondog",
+        "musician": "Moondog"
     },
     {
         "position": "33",
-        "albumName": "Clap Hands, Here Comes Charlie!",
-        "musician": "Ella Fitzgerald"
+        "albumName": "Monster Movie",
+        "musician": "The Can"
     },
     {
         "position": "34",
-        "albumName": "Motion",
-        "musician": "Lee Konitz"
+        "albumName": "Gal Costa",
+        "musician": "Gal Costa"
     },
     {
         "position": "35",
-        "albumName": "Flight to Jordan",
-        "musician": "Duke Jordan"
+        "albumName": "Uncle Meat",
+        "musician": "The Mothers of Invention"
     },
     {
         "position": "36",
-        "albumName": "Klavierkonzert Nr. 1 Es-Dur; Klavierkonzert Nr. 2 A-Dur",
-        "musician": "London Symphony OrchestraКирилл Кондрашин [Kirill Kondrashin]Святослав Рихтер [Sviatoslav Richter]"
+        "albumName": "Songs From a Room",
+        "musician": "Leonard Cohen"
     },
     {
         "position": "37",
-        "albumName": "Straight Ahead",
-        "musician": "Oliver NelsonEric Dolphy"
+        "albumName": "The Allman Brothers Band",
+        "musician": "The Allman Brothers Band"
     },
     {
         "position": "38",
-        "albumName": "Time Further Out",
-        "musician": "The Dave Brubeck Quartet"
+        "albumName": "Eternal Rhythm",
+        "musician": "Don Cherry"
     },
     {
         "position": "39",
-        "albumName": "Bags & Trane",
-        "musician": "Milt JacksonJohn Coltrane"
+        "albumName": "Le sacre du printemps",
+        "musician": "Cleveland OrchestraPierre Boulez"
     },
     {
         "position": "40",
-        "albumName": "Lush Life",
-        "musician": "John Coltrane"
+        "albumName": "Bayou Country",
+        "musician": "Creedence Clearwater Revival"
     }
 ]
