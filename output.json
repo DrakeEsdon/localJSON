@@ -1,0 +1,202 @@
+[
+    {
+        "position": "1",
+        "albumName": "My Favorite Things",
+        "musician": "John Coltrane"
+    },
+    {
+        "position": "2",
+        "albumName": "Olé Coltrane",
+        "musician": "John Coltrane"
+    },
+    {
+        "position": "3",
+        "albumName": "Africa / Brass",
+        "musician": "The John Coltrane Quartet"
+    },
+    {
+        "position": "4",
+        "albumName": "Stravinsky Conducts Le Sacre du printemps",
+        "musician": "Columbia Symphony OrchestraIgor Stravinsky"
+    },
+    {
+        "position": "5",
+        "albumName": "Free Jazz",
+        "musician": "The Ornette Coleman Double Quartet"
+    },
+    {
+        "position": "6",
+        "albumName": "The Blues and the Abstract Truth",
+        "musician": "Oliver Nelson"
+    },
+    {
+        "position": "7",
+        "albumName": "We Insist! Max Roach's Freedom Now Suite",
+        "musician": "Max Roach"
+    },
+    {
+        "position": "8",
+        "albumName": "Sechs Suiten für Violoncello Solo BWV 1007-1012",
+        "musician": "Pierre Fournier"
+    },
+    {
+        "position": "9",
+        "albumName": "Klaviersonaten Pathétique; Mondschein-Sonate; Appassionata",
+        "musician": "Wilhelm Kempff"
+    },
+    {
+        "position": "10",
+        "albumName": "Out There",
+        "musician": "Eric Dolphy"
+    },
+    {
+        "position": "11",
+        "albumName": "Chopin / Brahms / Liszt / Ravel / Prokofieff",
+        "musician": "Martha Argerich"
+    },
+    {
+        "position": "12",
+        "albumName": "A Night in Tunisia",
+        "musician": "Art Blakey & The Jazz Messengers"
+    },
+    {
+        "position": "13",
+        "albumName": "Don Giovanni",
+        "musician": "Philharmonia OrchestraPhilharmonia ChorusCarlo Maria Giulini Eberhard WächterJoan SutherlandLuigi AlvaGottlob FrickElisabeth SchwarzkopfGiuseppe TaddeiPiero CappuccilliGraziella Sciutti"
+    },
+    {
+        "position": "14",
+        "albumName": "Explorations",
+        "musician": "Bill Evans Trio"
+    },
+    {
+        "position": "15",
+        "albumName": "Out of the Cool",
+        "musician": "The Gil Evans Orchestra"
+    },
+    {
+        "position": "16",
+        "albumName": "This Is Our Music",
+        "musician": "The Ornette Coleman Quartet"
+    },
+    {
+        "position": "17",
+        "albumName": "Thelonious Monk With John Coltrane",
+        "musician": "Thelonious MonkJohn Coltrane"
+    },
+    {
+        "position": "18",
+        "albumName": "The Quest",
+        "musician": "Mal Waldron with Eric Dolphy and Booker Ervin"
+    },
+    {
+        "position": "19",
+        "albumName": "Roll Call",
+        "musician": "Hank Mobley"
+    },
+    {
+        "position": "20",
+        "albumName": "Ezz-thetics",
+        "musician": "George Russell Sextet"
+    },
+    {
+        "position": "21",
+        "albumName": "West Side Story",
+        "musician": "Various Artists"
+    },
+    {
+        "position": "22",
+        "albumName": "Steamin' With the Miles Davis Quintet",
+        "musician": "Miles Davis Quintet"
+    },
+    {
+        "position": "23",
+        "albumName": "The World of Cecil Taylor",
+        "musician": "Cecil Taylor"
+    },
+    {
+        "position": "24",
+        "albumName": "Presents Charles Mingus",
+        "musician": "Charles Mingus"
+    },
+    {
+        "position": "25",
+        "albumName": "Out Front",
+        "musician": "Booker Little"
+    },
+    {
+        "position": "26",
+        "albumName": "Percussion Bitter Sweet",
+        "musician": "Max Roach"
+    },
+    {
+        "position": "27",
+        "albumName": "Leeway",
+        "musician": "Lee Morgan"
+    },
+    {
+        "position": "28",
+        "albumName": "Undercurrent",
+        "musician": "Kenny Drew"
+    },
+    {
+        "position": "29",
+        "albumName": "Ella Fitzgerald Sings the Harold Arlen Song Book",
+        "musician": "Ella Fitzgerald"
+    },
+    {
+        "position": "30",
+        "albumName": "N° 5",
+        "musician": "Jacques Brel"
+    },
+    {
+        "position": "31",
+        "albumName": "Whistle Stop",
+        "musician": "Kenny Dorham"
+    },
+    {
+        "position": "32",
+        "albumName": "Showcase",
+        "musician": "Patsy Cline"
+    },
+    {
+        "position": "33",
+        "albumName": "Clap Hands, Here Comes Charlie!",
+        "musician": "Ella Fitzgerald"
+    },
+    {
+        "position": "34",
+        "albumName": "Motion",
+        "musician": "Lee Konitz"
+    },
+    {
+        "position": "35",
+        "albumName": "Flight to Jordan",
+        "musician": "Duke Jordan"
+    },
+    {
+        "position": "36",
+        "albumName": "Klavierkonzert Nr. 1 Es-Dur; Klavierkonzert Nr. 2 A-Dur",
+        "musician": "London Symphony OrchestraКирилл Кондрашин [Kirill Kondrashin]Святослав Рихтер [Sviatoslav Richter]"
+    },
+    {
+        "position": "37",
+        "albumName": "Straight Ahead",
+        "musician": "Oliver NelsonEric Dolphy"
+    },
+    {
+        "position": "38",
+        "albumName": "Time Further Out",
+        "musician": "The Dave Brubeck Quartet"
+    },
+    {
+        "position": "39",
+        "albumName": "Bags & Trane",
+        "musician": "Milt JacksonJohn Coltrane"
+    },
+    {
+        "position": "40",
+        "albumName": "Lush Life",
+        "musician": "John Coltrane"
+    }
+]
